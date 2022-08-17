@@ -1,0 +1,202 @@
+.header{
+    background-color: red;
+    height: 60px;
+}
+
+.logo{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+    color: red;
+    text-align: center;
+    margin-left: 35px;
+    margin-top: 9px;
+
+    /* UI Properties */
+    font: normal normal 600 33px/40px Poppins;
+    opacity: 1;
+}
+
+.login{
+    float: right;
+}
+
+.login button{
+    background-color: red;
+    color: white; 
+    border: white; 
+    margin-right: 20px;
+    margin-top: 18px;
+}
+
+.heading{
+    margin-left: 36px;
+    width: 514px;
+    height: 51px;
+}
+
+.filter-container{
+    /* display: inline-block; */
+    box-shadow: 0px 3px 6px #00000029;
+    width: 200px;
+    height: 560px;
+    text-align: left;
+    margin-left: 36px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;  
+}
+
+.Filters{
+    margin-left: 25px;
+    margin-top: 8px;
+    color: #192F60;
+}
+
+.Checkbox{
+    margin-left: 25px;
+    color: #8C96AB;
+}
+.cuisions{
+    margin-left: 25px;
+    color: #192F60;
+}
+
+.option{
+    color: #8C96AB;
+}
+
+.radio{
+    color: #8C96AB;
+}
+.Cost{
+    margin-left: 25px;
+    color: #192F60;
+}
+.Sort{
+    margin-left: 25px;
+    color: #192F60;
+}
+
+.product-container{
+    margin-left: 50px;
+    margin-left: 300px;
+    margin-top: -558px;
+   
+}
+
+.product{
+    box-shadow: 0px 3px 6px #00000029;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    width: 790px;
+    height: 291px;
+    color: #192F60;
+}
+
+.image{
+    width: 160px; 
+    height: 120px; 
+    border-radius: 25px;
+    margin-top: 25px;
+    margin-left: 35px;
+    margin-bottom: 146px;
+}
+
+
+.right-side{
+    margin-left: 250px;
+    margin-top: -275px;
+    height: 43px;
+    width: 303px;
+    letter-spacing: 0px;
+    
+}
+
+.line1{
+    margin-right: 250px;
+}
+
+.Title{
+
+    /* margin-top: 100px; */
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    margin-left: 35px;
+}
+
+.subcontainer{
+    margin-top: -99px;
+    margin-left: 253px;
+    color: #636F88;
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+
+}
+
+.product-container2{
+    margin-top: 38px;
+
+
+}
+
+.product2{
+    box-shadow: 0px 3px 6px #00000029;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    width: 790px;
+    height: 291px;
+    color: #192F60;
+}
+
+.image2{
+    width: 160px; 
+    height: 120px; 
+    border-radius: 25px;
+    margin-top: 25px;
+    margin-left: 35px;
+    margin-bottom: 146px;
+}
+
+.right{
+    margin-left: 250px;
+    margin-top: -275px;
+    height: 43px;
+    width: 303px;
+    letter-spacing: 0px;
+
+}
+
+.Title2{
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    margin-left: 35px;
+    
+}
+.pagination {
+    display: inline-block;
+    width: 380px;
+    margin-left: 265px;
+    margin-top: 38px;
+}
+
+.pagination a {
+    width: 36px;
+    height: 36px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+}
+
+
+
